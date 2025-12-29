@@ -1,7 +1,5 @@
 # نصب پیش نیاز ها
 
-قبل از هر چیز مطمئن شو این‌ها نصب هستند:
-
 .1: Python 3
 
 `python --version`
@@ -27,8 +25,9 @@ Enter token:
 `const sessionData = localStorage.getItem('NGMI-Sessions'); const parsed = JSON.parse(sessionData); console.log(parsed["list"][0]["access_token"])`
 
 یک توکن برای شما نمایش داده میشود که باید کپی کنید و جلوی Enter Token وارد کننید
-اسکریپت با موفقیت در حال اجرا هست و پس از اتمام دو پوشه  
-
+اگر پیام
+`Loaded 65531 numbers from phones.txt`
+رل دیدید , اسکریپت با موفقیت در حال اجرا هست.
 
 
 تمامی کد های موجود در این مخزن توسط من نوشته شده‌ اند و برای اهداف آموزشی، توسعه‌ ای یا استفاده در پروژه‌ های واقعی ایجاد شده‌اند.
