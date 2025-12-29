@@ -8,6 +8,7 @@ python --version
 
 
 .2: کتابخانه‌ها:
+
 pip install pyrancell colorama
 
 
