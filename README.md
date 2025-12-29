@@ -11,7 +11,7 @@
 
 `pip install pyrancell colorama`
 
-**اجرای اسکریپت**
+# اجرای اسکریپت
 
 داخل Command Prompt سیستم متن زیر را اجرا کن:
 
