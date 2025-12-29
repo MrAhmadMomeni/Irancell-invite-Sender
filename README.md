@@ -9,7 +9,7 @@
 
 .2: کتابخانه‌ها:
 
-`pip install pyrancell colorama`
+`pip install pyrancell requests colorama`
 
 # اجرای اسکریپت
 
