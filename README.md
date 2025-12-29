@@ -13,7 +13,7 @@
 
 داخل Command Prompt سیستم متن زیر را اجرا کن:
 
-`python irancell_invite.py`
+`python irancell.py`
 
 
 برنامه ازت می پرسد:
