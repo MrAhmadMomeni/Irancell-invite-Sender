@@ -16,7 +16,7 @@
 `python irancell.py`
 
 
-برنامه ازت می پرسد:
+برنامه ازت می پرسد
 
 Enter token:
 
