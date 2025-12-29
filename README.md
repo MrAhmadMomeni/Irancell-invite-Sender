@@ -44,7 +44,7 @@ Enter token:
 
 یک توکن برای شما نمایش داده میشود که باید کپی کنید و جلوی Enter Token وارد کنید
 اگر پیام
-`Loaded 65531 numbers from phones.txt`
+`Loaded 5 numbers from phones.txt`
 را دیدید , اسکریپت با موفقیت در حال اجرا هست.
 
 
