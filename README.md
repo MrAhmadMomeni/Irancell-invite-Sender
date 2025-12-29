@@ -22,6 +22,11 @@
 
 Enter token:
 
+برنامه مای ایرانسل را روی سیستم باز کن
+کد جاوا اسکریپت زیر را در کنسول مرورگر (inspect) وارد کن:
+
+`const sessionData = localStorage.getItem('NGMI-Sessions'); const parsed = JSON.parse(sessionData); console.log(parsed["list"][0]["access_token"])`
+
 
 
 تمامی کد های موجود در این مخزن توسط من نوشته شده‌ اند و برای اهداف آموزشی، توسعه‌ ای یا استفاده در پروژه‌ های واقعی ایجاد شده‌اند.
