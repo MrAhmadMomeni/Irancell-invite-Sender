@@ -20,7 +20,7 @@
 
 .1: Python 3
 
-`python --version`
+```python --version```
 
 
 .2: کتابخانه‌ها:
@@ -40,7 +40,7 @@ Enter token:
 
 برنامه مای ایرانسل را روی سیستم باز کن , کد جاوا اسکریپت زیر را در کنسول مرورگر (inspect) وارد کن:
 
-`const sessionData = localStorage.getItem('NGMI-Sessions'); const parsed = JSON.parse(sessionData); console.log(parsed["list"][0]["access_token"])`
+```const sessionData = localStorage.getItem('NGMI-Sessions'); const parsed = JSON.parse(sessionData); console.log(parsed["list"][0]["access_token"])```
 
 یک توکن برای شما نمایش داده میشود که باید کپی کنید و جلوی Enter Token وارد کنید
 اگر پیام
