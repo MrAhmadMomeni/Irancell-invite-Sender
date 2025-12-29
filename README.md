@@ -4,7 +4,7 @@
 
 .1: Python 3
 
-python --version
+```python --version```
 
 
 .2: کتابخانه‌ها:
